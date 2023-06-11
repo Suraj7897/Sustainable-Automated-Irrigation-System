@@ -17,6 +17,4 @@ Collects data from all the sensors, analysing the data and give plant suggestion
 3. The system can be run at night, reducing water loss due to evaporation.
 4. The irrigation process starts and stops exactly when needed, reducing energy consumption.
 
-**Images of Project:-**
 
-![WhatsApp Image 2022-12-18 at 11 59 18 PM](https://user-images.githubusercontent.com/107802002/208313366-136403e3-de51-497c-9ebc-1c1140e8a5c1.jpeg)
